@@ -1,5 +1,5 @@
-<h1 align="justify"> Olá 👋🏼 </h1>
-<p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
+<h1 align="center"> Olá 👋🏼 </h1>
+<p align="center"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
 - 🏦 Trabalho como consultora em um banco digital.
 

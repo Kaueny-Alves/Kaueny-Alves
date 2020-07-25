@@ -2,7 +2,7 @@ Kaueny Alves
 
 - ✨ Sou apaixonada po tecnologia e  Web Design.
 
-- 🔭 Atualmente, estou trabalhando como consultor em um banco digital.
+- 🔭 Atualmente, estou trabalhando como consultora em um banco digital.
 
 - 💻 Atualmente, estou aprendendo Fullstack Web Developer.
 

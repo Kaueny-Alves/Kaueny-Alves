@@ -1,6 +1,5 @@
 <h1 align="center"> Olá 👋🏼 </h1>
-
-Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
+<p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
 - 🏦 Trabalho como consultora em um banco digital.
 
@@ -8,7 +7,9 @@ Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
 - 💻 Linguagens: Html, Css, JavaScript, Node.js e em busca de novos aprendizados!
 
-- 🛠 Ferramentas: Visual Studio Code, GitHub, React.
+- 🛠 Ferramentas: Visual Studio Code, GitHub, React. </p>
+
+
 
 <!--
 **Kaueny-Alves/Kaueny-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

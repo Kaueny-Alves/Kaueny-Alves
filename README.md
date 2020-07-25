@@ -2,9 +2,9 @@ Olá 👋🏼
 
 Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
-- 🏦 Atualmente estou trabalhando como consultora em um banco digital.
+- 🏦 Trabalho como consultora em um banco digital.
 
-- 📝 Atualmente estou aprendendo Fullstack Web Developer.
+- 📝 Cursando o Bootcamp Fullstack Web Developer da Labenu.
 
 - 💻 Linguagens: Html, Css, JavaScript, Node.js e em busca de novos aprendizados!
 

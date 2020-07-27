@@ -1,4 +1,5 @@
-<h1 align="justify"> Olá ![octocat-kau](https://user-images.githubusercontent.com/63555634/88557535-b4cafa00-d000-11ea-9c65-e3d158c31085.png) </h1>
+<h1 align="justify"> Olá </h1>
+![kau](https://user-images.githubusercontent.com/63555634/88557779-0a070b80-d001-11ea-9c80-cfc46b1ae4f8.jpg)
 <p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
 - 🏦 Trabalho como consultora em um banco digital.

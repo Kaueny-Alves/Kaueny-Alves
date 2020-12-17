@@ -8,9 +8,11 @@
 
 - 🏦 Trabalho como advisor em um banco digital.
 
-- 📝 Cursando o Bootcamp Fullstack Web Developer da Labenu.
+- 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
 
-- 💻 Linguagens: Html, Css, JavaScript, Node.js e em busca de novos aprendizados!
+- 📝 Cursando o Bootcamp FrontEnd da Laboratória.
+
+- 💻 Linguagens: Html, Css, JavaScript, Typescript, Node.js e em busca de novos aprendizados!
 
 - 🛠 Ferramentas: Visual Studio Code, GitHub, React. </p>
 

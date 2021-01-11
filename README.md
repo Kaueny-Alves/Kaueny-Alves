@@ -6,8 +6,6 @@
 
 <p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
-- 🏦 Trabalho como advisor em um banco digital.
-
 - 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
 
 - 📝 Cursando o Bootcamp FrontEnd da Laboratória.

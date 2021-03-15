@@ -6,10 +6,12 @@
 
 <p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
-- 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
+
 
 - 📝 Cursando o Bootcamp FrontEnd da Laboratória.
-
+ 
+- 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
+ 
 - 💻 Linguagens: Html, Css, JavaScript, Typescript, Node.js e em busca de novos aprendizados!
 
 - 🛠 Ferramentas: Visual Studio Code, GitHub, React. </p>

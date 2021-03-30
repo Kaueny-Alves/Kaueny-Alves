@@ -1,4 +1,4 @@
-[![code](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMotaOliveira&hide=html&layout=compact&theme=default)](https://github.com/Kaueny-Alves/)
+[![code](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueny-Alves&hide=html&layout=compact&theme=default)](https://github.com/Kaueny-Alves/)
 
 [![card](https://github-readme-stats.vercel.app/api?username=Kaueny-Alves&theme=default)](https://github.com/Kaueny-Alves/)
 

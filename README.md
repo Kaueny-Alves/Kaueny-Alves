@@ -10,7 +10,7 @@
 
 
 
-- 📝 Cursando o Bootcamp FrontEnd da Laboratória.
+- 📝 Finalizei o Bootcamp FrontEnd da Laboratória.
  
 - 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
  

@@ -14,11 +14,9 @@
  
 - 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
  
-- 💻 Linguagens: Html, Css, JavaScript, Typescript, Node.js e em busca de novos aprendizados!
+- 💻 Em busca de novos aprendizados!
 
-- 🛠 Ferramentas: Visual Studio Code, GitHub, React. 
-
-- 👩🏽‍💻 Estudando Java e Spring.
+- 👩🏽‍💻 Estudando Java e SpringBoot.
 </p>
 
 

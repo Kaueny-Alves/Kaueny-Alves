@@ -10,13 +10,13 @@
 
 
 
-- 📝 Finalizei o Bootcamp FrontEnd da Laboratória.
+- 📝 Bootcamp FrontEnd da Laboratória.
  
-- 📝 Finalizei o Bootcamp Fullstack Web Developer da Labenu.
+- 📝 Bootcamp Fullstack Web Developer da Labenu.
  
 - 💻 Em busca de novos aprendizados!
 
-- 👩🏽‍💻 Estudando Java e SpringBoot.
+- 👩🏽‍💻 Estudando Java - SpringBoot - Angular.
 </p>
 
 

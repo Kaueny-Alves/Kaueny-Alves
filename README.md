@@ -6,7 +6,7 @@
  Olá
 </h1>
 
-<p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
+<!-- <p align="justify"> Meu nome é Kaueny Alves e sou apaixonada por tecnologia e  Web Design.
 
 
 
@@ -17,7 +17,7 @@
 - 💻 Em busca de novos aprendizados!
 
 - 👩🏽‍💻 Estudando Java - SpringBoot - Angular.
-</p>
+</p> -->
 
 
 [![code](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaueny-Alves&hide=html&layout=compact&theme=default)](https://github.com/Kaueny-Alves/)
